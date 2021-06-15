@@ -1,2 +1,2 @@
-**shell redirection**
-#Week Two - Day 1
+**Week Two - Day 1**
+SHELL REDIRECTIONS
