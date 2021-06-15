@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Lorem Ipsum dolor Ipsum sit sit ament cet era era" | tr '[:space:]' '[\n]'  | grep -v "^\s*$" | sort | uniq -c | sort -bnr
