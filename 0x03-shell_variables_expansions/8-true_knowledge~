@@ -1,0 +1,5 @@
+#!/bin/bash
+local TRUEKNOWLEDGE="10"
+export TRUEKNOWLEDGE=12
+
+print TRUEKNOWLEDGE + 128
